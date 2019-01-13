@@ -1,0 +1,2 @@
+# AndroidClender
+check android perrmsion 
